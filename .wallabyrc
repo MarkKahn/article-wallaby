@@ -1,0 +1,13 @@
+module.exports = {
+  files: [
+    'lib/**/*.js',
+  ],
+  tests: [
+    'test/*.coffee'
+  ],
+  debug: true,
+  env: {
+    type: 'node',
+    runner: 'node'
+  }
+};

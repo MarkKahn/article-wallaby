@@ -1,0 +1,25 @@
+{
+  "name": "wallaby-article",
+  "version": "0.0.1",
+  "description": "Repository for an article about wallaby",
+  "main": "lib/numeric-string-parser.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zyklus/article-wallaby.git"
+  },
+  "author": "Mark Kahn <m@vouchr.com>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/zyklus/article-wallaby/issues"
+  },
+  "homepage": "https://github.com/zyklus/article-wallaby#readme",
+  "dependencies": {
+    "written-number": "^0.2.2"
+  }
+}
