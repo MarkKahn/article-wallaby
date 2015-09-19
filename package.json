@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/zyklus/article-wallaby#readme",
   "dependencies": {
-    "written-number": "^0.2.2"
+    "written-number": "^0.2.2",
+    "chai": "^3.2.0"
   }
 }
